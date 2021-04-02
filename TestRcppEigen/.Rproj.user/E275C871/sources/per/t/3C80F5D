@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1617368546683.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3398642318",
+    "id" : "3C80F5D",
+    "lastKnownWriteTime" : 1617368525,
+    "last_content_update" : 1617368525,
+    "path" : "~/Downloads/test2/TestRcppEigen/R/RcppExports.R",
+    "project_path" : "R/RcppExports.R",
+    "properties" : {
+        "cursorPosition" : "9,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

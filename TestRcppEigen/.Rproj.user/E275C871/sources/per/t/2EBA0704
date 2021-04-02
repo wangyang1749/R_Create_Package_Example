@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1617368509419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2533631416",
+    "id" : "2EBA0704",
+    "lastKnownWriteTime" : 1617368457,
+    "last_content_update" : 1617368457,
+    "path" : "~/Downloads/test2/insatll_TestRcpp.sh",
+    "project_path" : null,
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sh"
+}
